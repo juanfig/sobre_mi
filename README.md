@@ -9,7 +9,7 @@ Soy Programador, con más de 15 años de experiencia, me apasiona la programaci�
 </h2>
 <img
     align="rigth"
-    src="https://giphy.com/gifs/animation-2012-japan-qPa9vUYCUrx6w" width="230"
+    src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e479j5dqz9kkxaab8g82zuzukxxabnb7io6f4w6w4uw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230"
 >
 <h2>
   <a name="Mis Habilidades" href="#mis habilidades">
